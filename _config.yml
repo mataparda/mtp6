@@ -20,11 +20,11 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "sobremtp"
+  Música experimental:
+    - 1980-1990: "19801990"
+    - 2025-: "2019-"
+  Author's home: "https:/mataparda.net"
 
 ################
 # --- Logo --- #
