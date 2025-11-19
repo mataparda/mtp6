@@ -23,8 +23,9 @@ navbar-links:
   Sobre Mataparda: "sobremtp"
   Música experimental:
     - 1980-1990: "19801990"
-    - 2025-: "2019-"
-  url: "https:/mataparda.net"
+    - 2019-: "2019-"
+  Fotografía: "foto"
+  Cómic: "espinita"
 
 ################
 # --- Logo --- #
