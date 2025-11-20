@@ -5,13 +5,13 @@ subtitle: cambio de siglo
 ---
 
 
-##Mataparda-Vega-Regina, 2019
+### Mataparda-Vega-Regina, 2019
   
 ![mataparda - Vega - Regina](assets/img/audiomatapardavegaregina.jpg)
 
 ---
 
-##Banda sonora para un documental experimental inédito, 2025
+### Banda sonora para un documental experimental inédito, 2025
 
 ![Banda sonora](assets/img/audiobandasonoradocumental.jpg)
 
@@ -19,7 +19,7 @@ subtitle: cambio de siglo
 
 ---
 
-##Concierto en **Télex**, agosto 2025
+### Concierto en **Télex**, agosto 2025
 
 ![Cartel Télex](assets/img/audioconciertotelex.jpg)
 
