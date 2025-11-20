@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Liferfe
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
