@@ -21,6 +21,7 @@ author: Mtp
 
 navbar-links:
 
+  INICIO: "inicio"
   Sonidos:
     - 1980-1990: "19801990"
     - 2019-: "2019-"
