@@ -141,7 +141,7 @@ page-col: "#FFFFFF"
 # blanco
 text-col: "#404040" 
 # gris medio
-link-col: "#4682b4" 
+link-col: "#4682B4" 
 # 4682b4 steelblue
 # #008AFF old azul claro
 hover-col: "#416787"
@@ -151,16 +151,16 @@ navbar-col: "#EAEAEA"
 # navbar-col: "#EAEAEA" OLD gris claro
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#3b3b3b" 
+footer-col: "#3B3B3B" 
 # gris oscuro 3b3b3b
 # footer-col: "#EAEAEA" OLD gris claro
 footer-text-col: "#FFFFFF"
 # footer-text-col: "#777777" OLD gris medio-oscuro
-footer-link-col: "799fbf"
+footer-link-col: "799FBF"
 # 799fbf steelblue 25% mas claro
 # footer-link-col: "#404040" old gris oscuro
 # #008AFF old azul claro
-footer-hover-col: "#4682b4"
+footer-hover-col: "#4682B4"
 # #4682b4 steelblue
 # #0085A1 old azul oscuro
 
