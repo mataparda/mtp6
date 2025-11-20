@@ -4,7 +4,7 @@ title: 1980-1990
 subtitle: casettes y experimentos sonoros
 ---
 
-![Contra el mal](assets/img/contraelmal.jpg)
+![Contra el mal](assets/img/audiocontraelmal.jpg)
 
 - Viajes por tierra
 - El Monte de la Soledad
