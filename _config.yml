@@ -20,13 +20,13 @@ author: Mtp
 ###############################################
 
 navbar-links:
-  Mataparda: "sobremtp"
+
   Sonidos:
     - 1980-1990: "19801990"
     - 2019-: "2019-"
   Fotografía: "foto"
   Cómic: "espinita"
-
+  Mataparda: "sobremtp"
 ################
 # --- Logo --- #
 ################
