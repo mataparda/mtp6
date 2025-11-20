@@ -2,7 +2,7 @@
 layout: page
 title: Mi viaje con L. 2011-2019-
 subtitle: 
-
+---
 
 ![foto mi viaje con Ledru revisado](assets/img/mvclr2019000a.jpg)
 
