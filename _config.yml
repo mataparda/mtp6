@@ -142,19 +142,28 @@ page-col: "#FFFFFF"
 # blanco
 text-col: "#404040" 
 # gris medio
-link-col: "#008AFF" 
-# azul claro
-hover-col: "#0085A1"
-# azul oscuro
-navbar-col: "#c1f771"
+link-col: "#4682b4" 
+# 4682b4 steelblue
+# #008AFF old azul claro
+hover-col: "#416787"
+# #416787 steel blue 25% mas oscuro
+# #0085A1 old azul oscuro
+navbar-col: "##EAEAEA"
 # navbar-col: "#EAEAEA" OLD gris claro
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#c4f2e9"
+#footer-col: "#3b3b3b" 
+# gris oscuro 3b3b3b
 # footer-col: "#EAEAEA" OLD gris claro
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-text-col: "#FFFFFF"
+# footer-text-col: "#777777" OLD gris medio-oscuro
+footer-link-col: "799fbf"
+# 799fbf steelblue 25% mas claro
+# footer-link-col: "#404040" old gris oscuro
+# #008AFF old azul claro
+footer-hover-col: "#4682b4"
+# #4682b4 steelblue
+# #0085A1 old azul oscuro
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
