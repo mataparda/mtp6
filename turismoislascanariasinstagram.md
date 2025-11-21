@@ -1,5 +1,11 @@
-#### #turismo #islascanarias #instagram #postfotografía #picoftheday
-Proyecto de investigación en postfotografía y comportamientos del turismo en Canarias. Thanks to @insta_repeat. Sin ánimo de lucro.
+---
+layout: page
+title: #turismo #islascanarias #instagram #postfotografía #picoftheday
+subtitle: 
+---
+
+
+#### Proyecto de investigación en postfotografía y comportamientos del turismo en Canarias. Thanks to @insta_repeat. Sin ánimo de lucro.
 
 ![turismocanariasig](images/02mirabilismapakew.jpg)
 
