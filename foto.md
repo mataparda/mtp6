@@ -10,6 +10,12 @@ subtitle: 1985-
 
 ---
 
+![La zona Leto](assets/img/portadalazona.jpg)
+
+#### [La Zona - El cuarto de los sueños](https://mataparda.github.io/mtp6/lazona) - 1997
+
+---
+
 ![Mi viaje con L portada](assets/img/portadamiviajeconl.jpg)
 
 #### [Mi viaje con L.](https://mataparda.github.io/mtp6/miviajeconl) - 2019
