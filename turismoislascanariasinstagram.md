@@ -7,7 +7,7 @@ subtitle:
 #### #turismo #islascanarias #instagram #postfotografía #picoftheday
 Proyecto de investigación en postfotografía y comportamientos del turismo en Canarias. Thanks to @insta_repeat. Sin ánimo de lucro.
 
-![turismocanariasig](/assets/img/02mirabilismapakew.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram001.jpg)
 
 Instagram como factor que está modificando los comportamientos del turismo. Podríamos decir también: la fotografía está modificando los comportamientos del turismo por mediación de Instagram.
 
