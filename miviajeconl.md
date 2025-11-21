@@ -12,17 +12,17 @@ Reconstruido desde las cenizas
 
 El 30 de septiembre de 1796 André-Pierre Ledru sale por mar de Francia hacia América dentro de una misión científica del gobierno republicano francés. Sin embargo, una tormenta está a punto de hundir su barco. Ledru es un naturalista, interesado por todo, gran observador, desde el principio de la tormenta asiste a los progresivos destrozos que se van produciendo y los describe minuciosamente, fascinado por lo que ve. Su carácter queda perfectamente definido en sus propias palabras:
 
->Había estado en el puente desde el comienzo de la tormenta, y permanecí allí durante sesenta horas, junto al capitán, el cuerpo sujeto a uno de los obenques, para resistir las violentas oscilaciones y cabeceos, la cabeza sujeta con una triple venda, para hacer frente a los golpes de poleas o cuerdas. En esta situación, observé en silencio el terrible espectáculo del hombre luchando con los elementos ... si el Cielo se dignara a llevarnos a puerto, nunca me habría consolado por no haberme atrevido a ver este aterrador espectáculo.*
+>Había estado en el puente desde el comienzo de la tormenta, y permanecí allí durante sesenta horas, junto al capitán, el cuerpo sujeto a uno de los obenques, para resistir las violentas oscilaciones y cabeceos, la cabeza sujeta con una triple venda, para hacer frente a los golpes de poleas o cuerdas. En esta situación, observé en silencio el terrible espectáculo del hombre luchando con los elementos ... si el Cielo se dignara a llevarnos a puerto, nunca me habría consolado por no haberme atrevido a ver este aterrador espectáculo.(1)
 
 Finalmente la tormenta pasa de largo, tres días más tarde avista Tenerife:
 
->En la tarde del 28, la serenidad de la atmósfera me permitió ver, en el N.E. el pico de Tenerife, cuya cabeza estaba coronada de nieve, que reflejaba los rayos del sol.*
+>En la tarde del 28, la serenidad de la atmósfera me permitió ver, en el N.E. el pico de Tenerife, cuya cabeza estaba coronada de nieve, que reflejaba los rayos del sol.(2)
 
-Ledru tiene ahora ante sí unos 4 meses que empleará en recorrer y conocer la isla. El resultado de esta exploración se recoge en Viaje a las islas de Tenerife, Trinidad, Santo Tomás, Santa Cruz y Puerto Rico (1810)*. Es este libro, en su parte referido a Tenerife, la base de mi trabajo fotográfico. 
+Ledru tiene ahora ante sí unos 4 meses que empleará en recorrer y conocer la isla. El resultado de esta exploración se recoge en _Viaje a las islas de Tenerife, Trinidad, Santo Tomás, Santa Cruz y Puerto Rico (1810)_(3). Es este libro, en su parte referido a Tenerife, la base de mi trabajo fotográfico. 
 
 Tenerife, a finales del 1796, es a los ojos de Ledru una isla pobre y en gran parte árida y desolada. En sus anotaciones describe asombrosos paisajes pero también registra los penosos caminos, la pobreza, el abandono de los campos, el suelo quemado.
 
->Tenerife, destrozada en parte por el fuego de los volcanes, presenta, a primera vista, solo una masa irregular y agrietada de lavas, escorias, rocas amontonadas a diestro y siniestro, como arrojadas al azar*
+>Tenerife, destrozada en parte por el fuego de los volcanes, presenta, a primera vista, solo una masa irregular y agrietada de lavas, escorias, rocas amontonadas a diestro y siniestro, como arrojadas al azar (4)
 
 Este libro es una revisión, redención, del publicado en 1991: Mi viaje con Ledru. La perspectiva del tiempo me ha enfrentado a los errores, las carencias y las limitaciones de aquel trabajo. Un proyecto fotográfico puede ser un proceso de crecimiento. Este, desde 1991 hasta 2019, lo ha sido, en múltiples sentidos.
 
@@ -39,30 +39,30 @@ Intento seguir la misma guía que la primera vez pero también hacer un fino cor
 
 ---
 
-* Voyage aux iles de Ténériffe, La Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco
+(1) J'étais sur le pont depuis le commencement de la tempête, et j'y suis resté pendant soixante heures, à côté même du capitaine, le corps attaché à un des haubans, pour résister aux violentes oscillations du roulis, et la tête ceinte d'un triple bandeau, pour pa rer aux coups provenant de la chute des poulies ou des cordages. Dans cette situation j'observais en silence le spectacle terrible de l'homme aux prises avec les éléments … si le Ciel daignait nous ramener au port, je ne me serais jamais consolé de n'avoir pas osé voir cet effrayant tableau.
 
-* J'étais sur le pont depuis le commencement de la tempête, et j'y suis resté pendant soixante heures, à côté même du capitaine, le corps attaché à un des haubans, pour résister aux violentes oscillations du roulis, et la tête ceinte d'un triple bandeau, pour pa rer aux coups provenant de la chute des poulies ou des cordages. Dans cette situation j'observais en silence le spectacle terrible de l'homme aux prises avec les éléments … si le Ciel daignait nous ramener au port, je ne me serais jamais consolé de n'avoir pas osé voir cet effrayant tableau.
+(2) Le 28 au soir la sérénité de l'atmosphère me permit d'apercevoir, au N. E., le pic de Ténériffe, dont la tête était couronnée de neiges qui réfléchissaient les rayons du soleil
 
-* Le 28 au soir la sérénité de l'atmosphère me permit d'apercevoir, au N. E., le pic de Ténériffe, dont la tête était couronnée de neiges qui réfléchissaient les rayons du soleil
+(3) Voyage aux iles de Ténériffe, La Trinité, Saint-Thomas, Sainte-Croix et Porto-Ricco
 
-* Ténériffe, bouleversée en partie par le feu des volcans, ne présente, au premier aspect, qu'une masse irrégulière et crevassée de laves, de scories, de rochers entassés pêle-mêle, et comme jetés au hasard
+(4) Ténériffe, bouleversée en partie par le feu des volcans, ne présente, au premier aspect, qu'une masse irrégulière et crevassée de laves, de scories, de rochers entassés pêle-mêle, et comme jetés au hasard
 
 ---
 
-Notas
+_Notas_
 
-	**Reconstruir el proyecto** 
+**Reconstruir el proyecto** 
 La intención no es rehacer las 51 fotos originales. Intentando seguir mis pasos he perdido casi todos los lugares, ya son otros. La Casa Fuerte de Adeje sigue desintegrándose como un organismo de arena muy antiguo; el Calvario de Tacoronte parece haber avanzado cada década un minuto en el tiempo; la playa de arena junto al Castillo Negro no existe, sustituida por olor a petróleo filtrado al océano; la esquina de la plaza de Santiago del Teide perdió las marcas del tiempo; ya no hay rosas junto al drago de Icod. 
 Sin embargo, esta mutación de la isla no es obstáculo y la nueva lectura del relato del viaje puede guiar nuevas rutas, indaga más profundamente, cambia el punto de vista, salta en el tiempo. Siguiendo la lógica de los caminos he entendido otra isla, otras formas de relacionar el territorio. Y repito alguna imagen, clavándolas como alfileres que sujetan dos telas para recordar de dónde vengo, y que sangro.
 
-	**Técnica y accidentes**
+**Técnica y accidentes**
 En 1991 me dejaba llevar por la intuición. Usaba las debilidades de las cámaras y el proceso químico como elementos que añadían significado. Buscaba el accidente. Esto sigue igual, encuentro poética en los errores, imperfecciones, la perfección es estéril.
 Entonces usaba película, química y cámaras basura, ahora mi fotografía es digital, el trabajo lo hago con un móvil,  y algún uso ocasional de cámaras digitales de juguete. Realmente podría hacer fotos con cualquier cosa, solo necesito una caja con un agujero, fiel a una idea de una foto pobre que me invadió como un virus: humildad de medios, asombro por cómo la luz da forma al mundo, respeto absoluto por la fotografía.
 
-	**Viajero y profeta**
+**Viajero y profeta**
 En la isla desaparecida propongo pensar y mirar como el viajero, quien observa y describe todo lo que va descubriendo: la botánica, las rocas, los paisajes, lo volcánico; atraviesa malpaíses y raros bosques; se deslumbra con especies desconocidas y árboles singulares: dragos, viñátigos, barbuzanos, un magnolio, un arbusto de estrelladera, un bosque de laurisilva. Y sin saberlo profetiza el aluvión de 1826 en San Juan de La Rambla que arrastra los cuerpos hasta la costa, la casona donde viviría el cónsul francés en Tegueste o el alumbramiento de las aguas del Barranco de Los Palomos, que traería la vida a La Guancha
 
-	**En el final de la isla** 
+**En el final de la isla** 
 Un atardecer, en Buenavista del Norte, encuentro un pequeño San Sebastián, metáfora del viajero francés, atado al palo del barco, martirizado en su ansia de observación. 
 
 ---
