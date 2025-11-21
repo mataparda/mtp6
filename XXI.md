@@ -27,10 +27,25 @@ En la década de 1980 estuve creando sonidos, grabando casettes, y no sé cómo 
 
 En estos 60 minutos (aprox.) de compartir ideas mi plan es el siguiente:
 - 10 o 15 minutos explorando la idea de la mesa de mezclas como instrumento (con algunos otros aparatos por los que pasan las señales) (ver nota sobre Nakamura).
-- Una pieza basada en sampleados de la película El fin del mundo 1977. 
-- Versiones. 1- Coil (dos temas fusionados: Ravenous y Circles of mania, del trabajo Horse Rotorvator 1986). 2-Word play de Bruce Haack de su trabajo Electric Lucifer de 1970 (con letra de un poema de Anne Sexton, Words,1975)
-- Relecturas de 9 temas propios.
-- Una pieza ensamblada específicamente para Télex, titulada provisionalmente Una noche.
+  
+- Una pieza basada en sampleados de la película El fin del mundo 1977.
+  
+- Versiones.
+---1- Coil (dos temas fusionados: _Ravenous_ y _Circles of mania_, del trabajo _Horse Rotorvator_ (1986).
+---2- Bruce Haack _Word play_ de su trabajo _Electric Lucifer_ de 1970 (con letra de un poema de Anne Sexton, _Words_,1975)
+  
+- Relecturas de 9 temas propios:
+---_Cruzar la carretera_
+---_Conejos recien nacidos_
+---_Después de Liferfe_
+---_Esas noches en Güímar mirando para el cielo_
+---_Galerías hasta los huesos_
+---_Lo más hondo del mar_
+---_Túnel por donde pasa un canal_
+---_El punto de observación y una coruja_
+---_Torres cielo_
+
+- Una pieza ensamblada específicamente para Télex, titulada provisionalmente _Una noche_.
   
 ---> Escuchar el [Concierto en la Caseta del Telégrafo, agosto 2025](http://bit.ly/matapardatelex2025)
 
