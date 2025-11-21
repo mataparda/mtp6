@@ -17,13 +17,13 @@ _La Zona - El cuarto de los sueños_ (1997). Un intento de unir la poética del 
 
 ![La Zona](/assets/img/LaZona05.jpg)
 
-![La Zona](/assets/img/LaZonaa06.jpg)
+![La Zona](/assets/img/LaZona06.jpg)
 
-![La Zona](/assets/img/LaZona07jpg)
+![La Zona](/assets/img/LaZona07.jpg)
 
 ![La Zona](/assets/img/LaZona08.jpg)
 
-![La Zona](/assets/img/LaZona09jpg)
+![La Zona](/assets/img/LaZona09.jpg)
 
 ![La Zona](/assets/img/LaZona10.jpg)
 
