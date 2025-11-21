@@ -23,7 +23,7 @@ subtitle: cambio de siglo
 
 ![Cartel Télex](assets/img/audioconciertotelex.jpg)
 
----> Escuchar el [Concierto en la Caseta del Telégrafo, agosto 2025](http://bit.ly/matapardatelecx2025)
+---> Escuchar el [Concierto en la Caseta del Telégrafo, agosto 2025](http://bit.ly/matapardatelex2025)
 
 ![Set Télex](assets/img/audiosettelex.jpg)
 
