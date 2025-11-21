@@ -12,12 +12,12 @@ subtitle: 1985-
 
 ![#turismo #islascanarias #instagram #postfotografía #picoftheday](assets/img/portadainstagram.jpg)
 
-#### [Mi viaje con L.](https://mataparda.github.io/mtp6/turismoislascanariasinstagram) - 2019
+#### [#instagram @islascanarias @turismo #postfotografía #picoftheday](https://mataparda.github.io/mtp6/turismoislascanariasinstagram) - 2019
 
 ---
 
 ![Opuntia piscinas](assets/img/portadaopuntiapiscinas.jpg) 
 
-#### [Mi viaje con L.](https://mataparda.github.io/mtp6/opuntiapiscinas) - 2019
+#### [Opuntia piscinas](https://mataparda.github.io/mtp6/opuntiapiscinas) - 2019
 
 ---
