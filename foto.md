@@ -4,6 +4,12 @@ title: fotografía
 subtitle: 1985-
 ---
 
+![Perro autorretrato](assets/img/portadaperro.jpg)
+
+#### [Perro](https://mataparda.github.io/mtp6/perro) - 1991
+
+---
+
 ![Mi viaje con L portada](assets/img/portadamiviajeconl.jpg)
 
 #### [Mi viaje con L.](https://mataparda.github.io/mtp6/miviajeconl) - 2019
