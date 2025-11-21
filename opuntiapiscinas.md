@@ -44,8 +44,8 @@ Sin posibilidad de tratamiento, la plaga arrasa ahora, imparable, grandes extens
 
 ![Opuntia piscinas](/assets/img/op014.jpg)
 
-![Opuntia piscinas](images/op015.jpg)
+![Opuntia piscinas](/assets/img/op015.jpg)
 
-![Opuntia piscinas](images/op016.jpg)
+![Opuntia piscinas](/assets/img/op016.jpg)
 
 ---
