@@ -10,4 +10,4 @@ mathjax: true
 author: Mtp
 ---
 
-![palmera](/assets/img/vistadesdecasa.jpg)
+![palmera](/assets/img/vistadesdecasa2.jpg)
