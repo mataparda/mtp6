@@ -20,9 +20,6 @@ En 2010 llega a las Islas otra cochinilla (_Dactylopius opuntiae_), muy agresiva
 Sin posibilidad de tratamiento, la plaga arrasa ahora, imparable, grandes extensiones invadidas previamente por opuntias, en un nuevo proceso de transformación ecológica, paisajística y social.
 
 
-
-![Opuntia piscinas](/assets/img/op002.jpg)
-
 ![Opuntia piscinas](/assets/img/op003.jpg)
 
 ![Opuntia piscinas](/assets/img/op004.jpg)
