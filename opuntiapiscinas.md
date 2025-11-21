@@ -4,7 +4,7 @@ title:
 subtitle: 
 ---
 
-#### Opuntia piscinas
+
 
 ![Opuntia piscinas](/assets/img/op001.jpg)
 
@@ -23,29 +23,29 @@ Sin posibilidad de tratamiento, la plaga arrasa ahora, imparable, grandes extens
 
 ![Opuntia piscinas](/assets/img/op002.jpg)
 
-![Opuntia piscinas](assets/img//op003.jpg)
+![Opuntia piscinas](/assets/img/op003.jpg)
 
-![Opuntia piscinas](images/op004.jpg)
+![Opuntia piscinas](/assets/img/op004.jpg)
 
-![Opuntia piscinas](images/op005.jpg)
+![Opuntia piscinas](/assets/img/op005.jpg)
 
-![Opuntia piscinas](images/op006.jpg)
+![Opuntia piscinas](/assets/img/op006.jpg)
 
-![Opuntia piscinas](images/op007.jpg)
+![Opuntia piscinas](/assets/img/op007.jpg)
 
-![Opuntia piscinas](images/op008.jpg)
+![Opuntia piscinas](/assets/img/op008.jpg)
 
-![Opuntia piscinas](images/op009.jpg)
+![Opuntia piscinas](/assets/img/op009.jpg)
 
-![Opuntia piscinas](images/op010.jpg)
+![Opuntia piscinas](/assets/img/op010.jpg)
 
-![Opuntia piscinas](images/op011.jpg)
+![Opuntia piscinas](/assets/img/op011.jpg)
 
-![Opuntia piscinas](images/op012.jpg)
+![Opuntia piscinas](/assets/img/op012.jpg)
 
-![Opuntia piscinas](images/op013.jpg)
+![Opuntia piscinas](/assets/img/op013.jpg)
 
-![Opuntia piscinas](images/op014.jpg)
+![Opuntia piscinas](/assets/img/op014.jpg)
 
 ![Opuntia piscinas](images/op015.jpg)
 
