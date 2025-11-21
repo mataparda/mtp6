@@ -17,27 +17,35 @@ Esta historia surge, sin duda, influenciada por el descubrimiento personal de Kr
 
 
 ![espinita cafe](assets/img/espinita03cafe.jpg)
+
 ---
 
 ![espinita cielo](assets/img/espinitacielo.jpg)
+
 ---
 
 ![espinita corrientes](assets/img/espinitacorrientes.jpg)
+
 ---
 
 ![espinita dolor](assets/img/espinitadolor.jpg)
+
 ---
 
 ![espinita poetico](assets/img/espinitalenguajepoetico.jpg)
+
 ---
 
 ![espinita mapas](assets/img/espinitamapas.jpg)
+
 ---
 
 ![espinita piretico](assets/img/espinitapiretico.jpg)
+
 ---
 
 ![espinita mesa](assets/img/espinitamesa.jpg)
+
 ---
 
 
