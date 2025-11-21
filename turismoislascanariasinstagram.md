@@ -7,7 +7,7 @@ subtitle:
 #### #turismo #islascanarias #instagram #postfotografía #picoftheday
 Proyecto de investigación en postfotografía y comportamientos del turismo en Canarias. Thanks to @insta_repeat. Sin ánimo de lucro.
 
-![turismocanariasig](images/02mirabilismapakew.jpg)
+![turismocanariasig](/assets/img/02mirabilismapakew.jpg)
 
 Instagram como factor que está modificando los comportamientos del turismo. Podríamos decir también: la fotografía está modificando los comportamientos del turismo por mediación de Instagram.
 
@@ -30,203 +30,203 @@ _mataparda - julio 2022_
 ---> Proyecto completo en [@turismo_canarias_ig](https://www.instagram.com/turismo_canarias_ig)
 
 
-![turismocanariasig](images/turismoislascanariasinstagram004.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram004.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram005.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram005.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram006.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram006.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram007.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram007.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram008.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram008.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram009.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram009.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram010.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram010.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram011.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram011.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram012.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram012.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram013.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram013.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram014.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram014.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram015.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram015.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram016.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram016.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram017.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram017.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram018.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram018.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram019.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram019.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram020.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram020.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram021.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram021.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram022.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram022.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram023.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram023.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram024.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram024.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram025.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram025.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram026.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram026.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram027.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram027.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram028.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram028.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram029.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram029.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram030.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram030.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram031.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram031.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram040.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram040.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram041.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram041.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram042.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram042.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram043.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram043.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram044.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram044.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram045.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram045.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram052.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram052.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram053.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram053.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram054.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram054.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram055.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram055.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram056.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram056.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram057.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram057.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram058.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram058.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram059.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram059.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram060.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram060.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram061.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram061.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram062.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram062.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram063.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram063.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram064.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram064.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram065.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram065.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram066.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram066.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram067.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram067.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram068jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram068jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram069.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram069.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram084.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram084.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram093.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram093.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram094.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram094.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram095.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram095.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram096.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram096.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram097.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram097.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram098.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram098.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram099.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram099.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram102.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram102.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram103.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram103.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram104.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram104.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram105.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram105.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram106.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram106.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram107.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram107.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram108.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram108.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram109.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram109.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram110.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram110.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram111.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram111.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram112.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram112.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram113.jpg)
+![turismocanariasig](i/assets/img/turismoislascanariasinstagram113.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram124.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram124.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram125.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram125.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram126.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram126.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram127.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram127.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram128jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram128jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram134.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram134.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram135.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram135.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram136.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram136.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram137.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram137.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram138.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram138.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram139.jpg)
+![turismocanariasig](/assets/img//turismoislascanariasinstagram139.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram140.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram140.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram142.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram142.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram143.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram143.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram144.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram144.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram145jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram145jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram146.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram146.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram150.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram150.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram152.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram152.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram155.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram155.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram157.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram157.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram158.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram158.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram159.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram159.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram162.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram162.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram166.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram166.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram167.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram167.jpg)
 
-![turismocanariasig](images/turismoislascanariasinstagram168.jpg)
+![turismocanariasig](/assets/img/turismoislascanariasinstagram168.jpg)
 
 
 ---
