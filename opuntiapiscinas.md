@@ -6,7 +6,7 @@ subtitle:
 
 #### Opuntia piscinas
 
-![Opuntia piscinas](images/op001.jpg)
+![Opuntia piscinas](/assets/img/op001.jpg)
 
 **La plaga y el primer parásito**
 Las pencas o tuneras (_Opuntias_) se introdujeron en el primer tercio del siglo XIX en las Islas Canarias junto con un parásito, la cochinilla (_Dactylopius coccus_), para la producción de tintes de la gama de los colores malva, cuyo comerció alcanzó altísimos precios y salvó la economía tras la crisis del vino. Poco después de la mitad del siglo, el descubrimiento de los pigmentos sintéticos (malveínas) causó la caída inmediata de la demanda. El chal teñido de malva que llevó la reina Victoria en la Exposición Universal de Londres de 1862, regalo de Perkin, el químico que patentó estos pigmentos, certificó el hundimiento de las Islas en una nueva crisis económica. 
@@ -21,9 +21,9 @@ Sin posibilidad de tratamiento, la plaga arrasa ahora, imparable, grandes extens
 
 
 
-![Opuntia piscinas](images/op002.jpg)
+![Opuntia piscinas](/assets/img/op002.jpg)
 
-![Opuntia piscinas](images/op003.jpg)
+![Opuntia piscinas](assets/img//op003.jpg)
 
 ![Opuntia piscinas](images/op004.jpg)
 
