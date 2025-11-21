@@ -3,7 +3,7 @@ layout: page
 title: Sobre Mtp
 subtitle: notas
 ---
-![José Mesa - Mataparda](assets/img/retratomataparda.jpg)
+![José Mesa - Mataparda](assets/img/mitodianallano.jpg)
 
 **José Mesa Acosta** (Tenerife, 1963). Realizó la licenciatura de Bellas Artes entre Tenerife y Barcelona, especializándose en foto-cine-vídeo, y ejerciendo posteriormente como profesor técnico en los ciclos de Imagen y Sonido de Formación Profesional, desarrollando su carrera docente en el CIFP César Manrique.
 
