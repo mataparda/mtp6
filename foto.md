@@ -6,7 +6,7 @@ subtitle: 1985-
 
 ![Perro autorretrato](assets/img/portadaperro.jpg)
 
-#### [Perro](https://mataparda.github.io/mtp6/perro) - 1991
+#### [Perro](https://mataparda.github.io/mtp6/perro) - 1990
 
 ---
 
